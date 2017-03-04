@@ -1,1 +1,18 @@
-zdfsdfsdfdsf
+Hello GIT COMMANDS
+=================================
+
+git config --global user.email "dsfdsf@sf.com"
+git config --global user.name "tvishalt"
+
+git init
+git status
+git add file name
+git commmit -m "added test.txt"
+git remote add origin https://github.com/tvishalt/gittest.git
+
+git push -u origin master
+
+git log
+git --help
+
+======================================
